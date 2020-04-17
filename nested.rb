@@ -83,9 +83,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-		 programmer_hash[:yukihiro_matsumoto] =>  {
-			 :known_for => "GUI"
-		 }
+		 programmer_hash[:yukihiro_matsumoto] =>  { }
 
 end
 
